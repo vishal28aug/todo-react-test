@@ -1,0 +1,10 @@
+.details{
+    width: 50%;
+    border: 1px solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+.title{
+    font-weight: bold;
+}
